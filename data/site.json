@@ -1,0 +1,34 @@
+{
+  "experiences": [
+    {
+      "date": "2021 \u2014 APR 2027",
+      "title": "B.Eng. Computer Engineering",
+      "organization": "University of Guelph",
+      "description": "Computer engineering studies with interests in embedded software, electronics, hardware integration and real-time systems. Expected graduation: April 2027."
+    },
+    {
+      "date": "MAY \u2014 SEP 2023",
+      "title": "Production Associate / Machine Operator",
+      "organization": "Linamar Corporation \u00b7 Eston Manufacturing",
+      "description": "Worked in an industrial manufacturing environment in Guelph, Ontario."
+    },
+    {
+      "date": "2022 \u2014 2023",
+      "title": "Student Collection & Resource Management Assistant",
+      "organization": "University of Guelph",
+      "description": "Held full-time and part-time contract positions involving resource management and project coordination."
+    }
+  ],
+  "skills": [
+    "C",
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML/CSS",
+    "VHDL",
+    "SolidWorks",
+    "AutoCAD",
+    "SketchUp",
+    "Arduino"
+  ]
+}
